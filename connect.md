@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Connect me
+title: Connect
 subtitle: With love from Russia
 permalink: /connect/
 ---
