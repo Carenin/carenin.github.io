@@ -13,6 +13,7 @@ $icon-twitter: "\e90c";
 $icon-twitter-rounded: "\e90d";
 $icon-feed: "\e90e";
 $icon-github: "\e90f";
+$icon-vk: "\e90g";
 $icon-linkedin: "\e905";
 
 @font-face {
@@ -52,4 +53,5 @@ $icon-linkedin: "\e905";
 .icon-feed:before { content: $icon-feed; }
 .icon-github:before { content: $icon-github; }
 .icon-linkedin:before { content: $icon-linkedin; }
+.icon-vk:before { content: $icon-vk; }
 
