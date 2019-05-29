@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Connect
-subtitle: With love from Russia
+subtitle: 
 permalink: /connect/
 ---
 
-Sorry...
-
-Coming soon
