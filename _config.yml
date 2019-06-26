@@ -5,9 +5,9 @@ markdown    : kramdown
 highlighter : rouge
 
 # SEO settings
-title: Carenin
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: Carenin | Drupal Ижевск
+description: "Drupal в Ижевске"
+keywords: "drupal, ижевск"
 
 # Site settings
 url: http://carenin.ru
