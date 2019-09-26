@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+# permalink and highlighter
 permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
