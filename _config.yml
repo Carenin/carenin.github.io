@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-# permalink and highlighter
 permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
@@ -8,11 +7,9 @@ title: Carenin
 description: "&quot;Carenin&quot; занимается созданием сайтов под ключ."
 keywords: "Создание сайтов, разработка"
 
-# Site settings
 url: http://carenin.ru
 baseurl: ""
 
-# Author settings
 author:
   name      : Fernando Moreira
   job       : Frontend Engineer
