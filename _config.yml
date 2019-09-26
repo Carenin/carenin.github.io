@@ -4,7 +4,6 @@ permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
-# SEO settings
 title: Carenin
 description: "&quot;Carenin&quot; занимается созданием сайтов под ключ."
 keywords: "Создание сайтов, разработка"
