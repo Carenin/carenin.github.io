@@ -5,8 +5,8 @@ markdown    : kramdown
 highlighter : rouge
 
 title: Carenin
-description: "&quot;Carenin&quot; занимается созданием сайтов под ключ."
-keywords: "Создание сайтов, разработка"
+description: ""
+keywords: ""
 
 url: http://carenin.ru
 baseurl: ""
