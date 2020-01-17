@@ -4,9 +4,9 @@ permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
-title: Carenin | Drupal 7 development
-description: "Разработка и доработка сайтов на Drupal 7"
-keywords: "drupal 7"
+title: Carenin | Разработка сайтов на Drupal
+description: "Разработка сайтов на Drupal"
+keywords: "drupal"
 
 url: https://carenin.ru
 baseurl: ""
