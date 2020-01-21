@@ -4,9 +4,9 @@ permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
-title: Carenin | Разработка сайтов на Drupal
-description: "Разработка сайтов на Drupal"
-keywords: "drupal"
+title: Разработка и поддержка сайтов на Drupal в Ижевске | Carenin
+description: "Разработка и поддержка сайтов на Drupal в Ижевске"
+keywords: "drupal, ижевск, carenin"
 
 url: https://carenin.ru
 baseurl: ""
